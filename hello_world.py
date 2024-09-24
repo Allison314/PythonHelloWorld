@@ -1,6 +1,6 @@
 """
 This is my first program 
-it will print hello world and then do more
+it will print hello world
 Allison Van Houten 2024
 """
 
