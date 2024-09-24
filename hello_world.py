@@ -5,9 +5,8 @@ Allison Van Houten 2024
 """
 
 def main():
-  pass
-
-
+  name:str="Allison"
+  print("Hello", name, "!")
 
 if __name__ == "__main__":
   main()
